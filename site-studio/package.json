@@ -1,0 +1,9 @@
+{
+  "name": "srakaj-site-studio",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local visual editor for GitHub-hosted static websites.",
+  "type": "module",
+  "scripts": {"start": "node server.mjs"},
+  "engines": {"node": ">=20"}
+}
